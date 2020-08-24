@@ -1,0 +1,22 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noamsauerutley/FSFFE.git"
+  },
+  "author": "gnome",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/noamsauerutley/FSFFE/issues"
+  },
+  "homepage": "https://github.com/noamsauerutley/FSFFE#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
